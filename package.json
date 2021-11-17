@@ -1,0 +1,25 @@
+{
+  "name": "curso",
+  "version": "1.0.0",
+  "description": "curso aula01",
+  "main": "variables/index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/higordiego/curso-js.git"
+  },
+  "keywords": [
+    "curso",
+    "aula01",
+    "itlean",
+    "it",
+    "lean",
+    "itlindos"
+  ],
+  "author": "Higor Diego",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/higordiego/curso-js/issues"
+  },
+  "homepage": "https://github.com/higordiego/curso-js#readme"
+}
